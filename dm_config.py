@@ -1,0 +1,9 @@
+DIR_PATH_TO_IN_MP3 = 'C:\\Users\\usr\\PycharmProjects\\deepmusic\\for_learn\\in_mp3\\'
+DIR_PATH_TO_OUT_WAV = 'C:\\Users\\usr\\PycharmProjects\\deepmusic\\for_learn\\out_wav\\'
+DIR_PATH_TO_OUT_SPECTROGRAM = 'C:\\Users\\usr\\PycharmProjects\\deepmusic\\for_learn\\out_spectrogram\\'
+DIR_PATH_TO_OUT_MODAL_WEIGHT = 'C:\\Users\\usr\\PycharmProjects\\deepmusic\\out_cnn_weight\\'
+DIR_PATH_TO_IN_MP3_PREDICT = 'C:\\Users\\usr\\PycharmProjects\\deepmusic\\for_predict\\in_mp3\\'
+DIR_PATH_TO_OUT_WAV_PREDICT = 'C:\\Users\\usr\\PycharmProjects\\deepmusic\\for_predict\\out_wav\\'
+DIR_PATH_TO_OUT_SPECTROGRAM_PREDICT = 'C:\\Users\\usr\\PycharmProjects\\deepmusic\\for_predict\\out_spectrogram\\'
+SPECTROGRAM_HEIGHT = 100
+SPECTROGRAM_WIDTH = 100
